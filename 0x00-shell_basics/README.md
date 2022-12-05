@@ -12,3 +12,4 @@ previous working dir
 file typr script
 symbolic link
 copy_html
+movingfiles
