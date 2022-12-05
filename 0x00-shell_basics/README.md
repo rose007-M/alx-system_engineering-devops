@@ -11,3 +11,4 @@ previous working dir
 11-lists
 file typr script
 symbolic link
+copy_html
