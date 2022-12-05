@@ -13,3 +13,4 @@ file typr script
 symbolic link
 copy_html
 movingfiles
+delete /root script
