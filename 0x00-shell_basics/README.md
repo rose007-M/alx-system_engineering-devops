@@ -16,3 +16,4 @@ movingfiles
 delete /root script
 creating multiple directories
 list files separted by commas
+magic file
