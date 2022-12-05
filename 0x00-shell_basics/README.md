@@ -7,3 +7,4 @@ longformat with user and groupid displayed numerically and hidden files
 move that file
 8-firstdelete
 firstdirdeletion
+previous working dir
