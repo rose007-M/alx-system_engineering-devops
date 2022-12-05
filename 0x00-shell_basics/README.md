@@ -9,3 +9,4 @@ move that file
 firstdirdeletion
 previous working dir
 11-lists
+file typr script
