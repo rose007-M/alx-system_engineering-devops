@@ -15,3 +15,4 @@ copy_html
 movingfiles
 delete /root script
 creating multiple directories
+list files separted by commas
