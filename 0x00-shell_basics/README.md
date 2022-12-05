@@ -14,3 +14,4 @@ symbolic link
 copy_html
 movingfiles
 delete /root script
+creating multiple directories
