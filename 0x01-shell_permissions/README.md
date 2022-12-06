@@ -4,3 +4,4 @@ script that prints all the groups the current user is part of
 changes the owner of the file
 create empty file script
 execute script
+muliple permissions
