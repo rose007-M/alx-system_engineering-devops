@@ -7,3 +7,4 @@ execute script
 muliple permissions
 7-everybody
 jamesbond 007
+directory permissions
