@@ -6,3 +6,4 @@ create empty file script
 execute script
 muliple permissions
 7-everybody
+jamesbond 007
