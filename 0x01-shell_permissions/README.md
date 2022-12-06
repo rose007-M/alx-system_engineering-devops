@@ -8,3 +8,4 @@ muliple permissions
 7-everybody
 jamesbond 007
 directory permissions
+create dir with permission751
