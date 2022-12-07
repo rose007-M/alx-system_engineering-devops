@@ -11,3 +11,4 @@ directory permissions
 create dir with permission751
 changing group owner
 script that changes owner and group
+symbolic link
